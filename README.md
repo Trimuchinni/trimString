@@ -21,5 +21,5 @@ public class AppConfig {
 
   @TrimString
 	public String anyString="Any String with spaces";
-// When printing 
+// When printing
 System.out.println(anyString)//Output is AnyStringwithspaces
